@@ -1,23 +1,37 @@
 ---
-# Header
 title: "Recreational Fisheries Management Lab"
+output: 
+  html_document: 
+    theme: paper
+    css: CSSBackgrounds.css
 ---
+# Improving management and conservation of fish populations {.tabset}
 
-## Introduction
+## Home
+
+data-background="background.jpeg"
 
 Objectives of our research
+
 Types of projects we work on
+
 EDI
 
 ## People
 
-Brett van Poorten
-Chris Cahill
-Hannah Hunter
-Mikayla O'Ferrall
-Olivia Schaefer
-Philip Lemp
-Kelcy Tousignant
+> Brett van Poorten
+
+> Chris Cahill
+
+> Hannah Hunter
+
+> Mikayla O'Ferrall
+
+> Olivia Schaefer
+
+> Philip Lemp
+
+> Kelcy Tousignant
 
 ## Current Research
 
@@ -35,4 +49,3 @@ general research objectives
 
 ## Partners and Funding
 
-![](https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png){width=50%}
