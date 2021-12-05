@@ -5,16 +5,9 @@ title: "Recreational Fisheries Management Lab"
 
 ## Introduction
 
-> outcomes:
-
-- learn how to create and share Rmarkdown document
-- learn various document types e.g., html, docx, and pdf
-- ~~learn to fly the rocket~~
-
-
-The bottom line is - I would like to learn Rmarkdown
-<br> 
-Like **seriously** become **good** at it!
+Objectives of our research
+Types of projects we work on
+EDI
 
 ## People
 
@@ -26,25 +19,20 @@ Olivia Schaefer
 Philip Lemp
 Kelcy Tousignant
 
-## Code
+## Current Research
 
-You can use single backtick on each side of the code for inline or triple backticks for standalone code block
+Broad overview of research
+general research objectives
 
-```
-#!/bin/bash
+## Prospective students
 
-echo "Why am I doing BASH in this course?"
+-who we are looking for
+-experience and intent
+-what you need to apply
+-contact - Brett's email
 
-Rscript --vanilla run_away.R
-```
+## Publications
 
-## Math
-This is a covariance equation, random variable $X$ co-variace with random variable $Y$, where $\\bar{X} = mean(X)$ and $\\bar{Y} = mean(Y)$ and $N$ is a size of a random sample from the population.
-
-$$
-cov(X,Y) = \frac{\sum(X_{i}-\bar{X})(Y_{i}-\bar{Y})}{N-1}
-$$
-
-## Images
+## Partners and Funding
 
 ![](https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png){width=50%}
